@@ -6,5 +6,5 @@ def reverse_each_word(str)
   arr.each {|el| arr << el.reverse}
 
   new_arr
-  
+
 end
